@@ -3644,10 +3644,53 @@ Abu Dhabi Sports ,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.strea
 
 
 测试频道,#genre#
-凤凰中文,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=113.64.147.i&tvid=fhzw
-凤凰资讯,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=113.64.147.i&tvid=fhzx
-凤凰香港,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=113.64.147.i&tvid=fhxg
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+凤凰卫视,http://111.59.189.40:85//tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://111.59.189.40:85//tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰影视,http://111.59.189.40:85//tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+凤凰影视,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+凤凰电影,P2p://ns3.hellotvvod.com:9906/f156bda18fde42dfb0f008f27e5995a9
+凤凰香港,P2p://ns3.hellotvvod.com:9906/7b947c281d0e46928e9fa316caf49a74
+凤凰中文,P2p://ns3.hellotvvod.com:9906/e7b593bb50ab4a92a4efcafd703c8bb1
+凤凰资讯,P2p://ns3.hellotvvod.com:9906/f465baadfd4c41648b6ab6f92fda9709
+翡翠台,P2p://ns3.hellotvvod.com:9906/c6e5996cb4224083afd21e4826c71354
+明珠台,P2p://ns3.hellotvvod.com:9906/99efb89812c04244a8dce2f24656bc46
+翡翠台(华丽台),P2p://ns3.hellotvvod.com:9906/68566f7fcace488ab20738b7987edc62
+﻿翡翠台,P2p://ns3.hellotvvod.com:9906/496a977c44cd4e25917deb1e9ad07858
+港台电视31,P2p://ns3.hellotvvod.com:9906/0ab28099f1e14eb3b6f6cd7d6053598a
+HKC体育台,P2p://ns3.hellotvvod.com:9906/f029ee9884aa4f50ac74fb03e191731b
+TVB经典台,P2p://ns3.hellotvvod.com:9906/287c6b04debd46128b696db5ffc8d6be
+TVB星河(粤),P2p://ns3.hellotvvod.com:9906/d19067d3e427420b8044f23f64f80338
+TVB娱乐新闻台,P2p://ns3.hellotvvod.com:9906/cc9aa0780d4b4d949de136ed83185d33
+J2,P2p://ns3.hellotvvod.com:9906/5f14903872a94a569f6734bf159baaa3
+无线财经,P2p://ns3.hellotvvod.com:9906/7deb293c76dd498ba51dc01a5360fee9
+无线新闻,P2p://ns3.hellotvvod.com:9906/a2b800340eb34c63b18ef53a5c745df4
+无线新闻,P2p://ns3.hellotvvod.com:9906/9f4b194c8f294f4d917366c6ad7b7b6d
+18台,P2p://ns3.hellotvvod.com:9906/d8cd184ed0d548d78d2cc091ccbfc242
+HKC 18,P2p://ns3.hellotvvod.com:9906/20f8a67cf811447e81ab0fe62a215815
+HKC Sports Plus 1,P2p://ns3.hellotvvod.com:9906/91f4740131fe40ee88ed231c99733b56
+HKC电影台,P2p://ns3.hellotvvod.com:9906/772f3c92423b4c1f904c1c1c829ca048
+HKC体育台,P2p://ns3.hellotvvod.com:9906/f029ee9884aa4f50ac74fb03e191731b
+有线新闻台,P2p://ns3.hellotvvod.com:9906/ad60bb32dd3d4c13b040cb844a0bc95f
+HKC综合娱乐台,P2p://ns3.hellotvvod.com:9906/a2cb3031c73f456d99a95168dcc82735
+有线财经资讯台,P2p://ns3.hellotvvod.com:9906/8d9238b2f44e4e74b94cbb1e31c45806
+香港603,P2p://ns3.hellotvvod.com:9906/80a6a0614b7b4655abf1dc25f4829c08
+ViuTV,P2p://ns3.hellotvvod.com:9906/266eb22a3dc14ba287305a1fea05b54b
+ViuTVsix,P2p://ns3.hellotvvod.com:9906/858c2c5895854bb682c3ea0ae64d2029
+now新闻台,P2p://ns3.hellotvvod.com:9906/bcae3b518df84b3389f97031be53ca12
+now直播台,P2p://ns3.hellotvvod.com:9906/8ea1ad3e16654d7a82a6f1b03add32a8
+港台电视31,P2p://ns3.hellotvvod.com:9906/0ab28099f1e14eb3b6f6cd7d6053598a
+港台电视32,P2p://ns3.hellotvvod.com:9906/d71c6764a8ea408bb94df9c24e4139d4
+Thrill,P2p://ns3.hellotvvod.com:9906/2c323e61b2d449f9abe78e344c1e2653
+香港开电视,P2p://ns3.hellotvvod.com:9906/aa58959f267f4401b785cd655b050025
+美亚电影台(粤语),P2p://ns3.hellotvvod.com:9906/ff4dfbdb186d4a14a74b8df101909eb2
+阳光卫视,P2p://ns3.hellotvvod.com:9906/9a31a3bb54dc436aa262d1a92c0fbb83
+星空卫视,P2p://ns3.hellotvvod.com:9906/5d4a96e499744c8b91317cec0b232db9
+澳门-MACAU,P2p://ns3.hellotvvod.com:9906/3d927ad544a040059b9ec8393ee30f7e
+澳门莲花,P2p://ns3.hellotvvod.com:9906/797c3b1c6f674e618f51db3bbe18e736
 
 翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://113.64.147.13:808/hls/67/index.m3u8
