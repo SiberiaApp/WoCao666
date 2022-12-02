@@ -141,24 +141,6 @@ CCTV14,http://219.142.151.179:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 CCTV15,http://219.142.151.179:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://219.142.151.179:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://219.142.151.179:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV2,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?Contentid=1000000001000012442&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV3,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?Contentid=1000000001000011218&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV4,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000031664/1.m3u8?Contentid=1000000002000031664&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV5,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000004794/1.m3u8?Contentid=1000000001000004794&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV5+,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000020505/1.m3u8?Contentid=1000000001000020505&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV6,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000016466/1.m3u8?Contentid=1000000001000016466&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV7,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000017218/1.m3u8?Contentid=1000000001000017218&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV8,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000003736/1.m3u8?Contentid=1000000001000003736&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV9,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV10,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000026367/1.m3u8?Contentid=1000000001000026367&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV11,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000019789/1.m3u8?Contentid=1000000002000019789&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV12,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000001640/1.m3u8?Contentid=1000000001000001640&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV13,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?Contentid=1000000002000021303&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV14,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000008170/1.m3u8?Contentid=1000000001000008170&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV15,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000008163/1.m3u8?Contentid=1000000002000008163&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV16,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000006000233002/1.m3u8?Contentid=1000000006000233002&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
-CCTV17,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000005000056836/1.m3u8?Contentid=1000000005000056836&livemode=1&stbId=3&channel-id=ystenlive&PLTV$全球CDN
 CCTV1,http://39.136.48.2:8089/PLTV/88888888/224/3221225859/index.m3u8$华东
 CCTV1,http://39.136.48.5:8089/PLTV/88888888/224/3221225859/index.m3u8$华东
 CCTV1,http://39.136.48.7:8089/PLTV/88888888/224/3221225859/index.m3u8$华东
@@ -236,14 +218,8 @@ CCTV16,http://livepull.sxiptv.cn/live/CCTV16.m3u8?txSecret=eb9c76cfe79581d776426
 CCTV17,http://39.136.48.2:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV17,http://39.136.48.5:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
-CCTV4K,https://p.ggiptv.com/v/4k.m3u8$4K
-CCTV4K,https://v.bjiptv.eu.org/4.php$4K
-CCTV4K,http://118.31.113.130:82/gudou.php?id=CCTVHHD4K_38000$4K50帧
-CCTV4K,http://118.31.113.130:82/gudou.php?id=4005_4500$4K50帧
-CCTV4K,http://open.live-web.timetv.cn/live03/cctv4k.m3u8$4K
-CCTV4K,http://ye23.win/iptv/4k.cctv.php$4K
-CCTV4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/index.m3u8$假4K但可回看
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8$4K
+CCTV4K,http://159.75.85.63:8280/cctv4k.php
+CCTV4K,http://129.204.196.171:5678/gudou.php?id=4005
 CCTV1,http://218.29.135.2:4000/udp/225.1.4.73:1102$河南专用
 CCTV2,http://218.29.135.2:4000/udp/225.1.4.74:1103$河南专用
 CCTV3,http://218.29.135.2:4000/udp/225.1.4.158:1194$河南专用
@@ -3571,6 +3547,44 @@ B站直播英文流,http://zzy789.xyz/bili.php?id=22965503
 斗鱼直播3,http://qytv.win86.top/tv/dytv.php?id=673305
 
 
+世界杯专区,#genre#
+CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8$华南
+CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225642/index.m3u8$华南
+CCTV1,http://39.134.115.221:8080/PLTV/88888910/224/3221225762/index.m3u8$华南
+CCTV5,http://39.134.115.221:8080/PLTV/88888910/224/3221225633/index.m3u8$华南
+CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
+CCTV5+,http://39.134.115.221:8080/PLTV/88888910/224/3221225649/index.m3u8$华南
+CCTV5+,http://39.134.115.221:8080/PLTV/88888910/224/3221225706/index.m3u8$华南
+CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
+CCTV4K,http://159.75.85.63:8280/cctv4k.php
+广东体育,http://121.51.249.19/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+五星体育,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://119.188.123.28/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8$黑龙江移动
+咪咕体育,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8$黑龙江移动
+咪咕体育,http://39.135.134.67/000000001000/3000000001000026778/index.m3u8$黑龙江移动
+抖音4K50P世界杯场次一,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone
+抖音4K50P世界杯场次二,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo
+BTV纪实科教8K,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+卡塔尔半岛电视台英语,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Abu Dhabi Sports ,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+中国之声视频直播间,http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2016993703.m3u8
+中国之声视频直播间,http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/ysp/2016993703.m3u8
+卡塔尔世界杯主题曲,https://vd3.bdstatic.com/mda-nd0jsu5gmz8r0dmp/1080p/cae_h264_delogo/1648822160566549411/mda-nd0jsu5gmz8r0dmp.mp4
+南非世界杯主题曲,https://vd3.bdstatic.com/mda-nkg8r1nati9sdx5p/1080p/cae_h264/1668668722945661249/mda-nkg8r1nati9sdx5p.mp4
+法国世界杯主题曲,https://vd3.bdstatic.com/mda-nkg8y6beyzeq6hpt/1080p/cae_h264/1668666283245692682/mda-nkg8y6beyzeq6hpt.mp4
+卡塔尔世界杯吉祥物,https://vd4.bdstatic.com/mda-nkg99ufgvr927wgg/1080p/cae_h264/1668667267150615992/mda-nkg99ufgvr927wgg.mp4
+吉祥物的一天,https://vd4.bdstatic.com/mda-nkdgwkam1nppxb26/1080p/cae_h264/1668427792653242744/mda-nkdgwkam1nppxb26.mp4
+
 
 测试频道,#genre#
 凤凰中文,http://iptv.weai.love/live?ispa=full&type=gdjy&ipdz=113.64.147.i&tvid=fhzw
@@ -3980,12 +3994,7 @@ Mnet,https://apichvod21.seezntv.com/OTM/10150_H.m3u8?AdaptiveType=HLS&SessionID=
 无实际用处,https://vd2.bdstatic.com/mda-nfinxs9tudqm9fi0/1080p/cae_h264/1655655940993023377/mda-nfinxs9tudqm9fi0.mp4
 广场舞测试1,https://vd4.bdstatic.com/mda-nf1y9p51adrm7mew/1080p/cae_h264/1654234039194681706/mda-nf1y9p51adrm7mew.mp4
 保持理智,https://aowu.sharepoint.cn/sites/cnoW/_layouts/15/download.aspx?UniqueId=0bc8dbef-06d1-4301-8883-dbce42727888&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYW93dS5zaGFyZXBvaW50LmNuQDE3MGE2Y2M3LWJkZTctNGJjNy04N2IwLWMxZjFkZDA0NDg4ZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NjczNTU4NDAiLCJleHAiOiIxNjY3MzU5NDQwIiwiZW5kcG9pbnR1cmwiOiJmdDVnV0tMOWc5dGhNWEdYd3l0ZWZYWWFxbUtNWkdkWHpxdjNieDJ3cjZRPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTI1IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOemd3WTJGbFpUa3RaV1JrT1MwME5EVmtMVGt5WWpZdFpEazJZMk0zWVRZME5XSXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTUdabU5XVTVaRGN0Tm1GaE9TMDBOV1UzTFdFeU56SXROREUyTmpnME0yUmtabUV3IiwiYXBwX2Rpc3BsYXluYW1lIjoiemZpbGUiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiI0YTcyZDkyNy0xOTA3LTQ4OGQtOWViMi0xYjQ2NWM1M2MxYzUiLCJ0aWQiOiIxNzBhNmNjNy1iZGU3LTRiYzctODdiMC1jMWYxZGQwNDQ4OGQiLCJ1cG4iOiJjMTIzQHBhb2x1LnNpdGUiLCJwdWlkIjoiMTAwMzMyMzBDNjVENEMzRSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMzMjMwYzY1ZDRjM2VAbGl2ZS5jb20iLCJzY3AiOiJhbGxmaWxlcy53cml0ZSBhbGxzaXRlcy5yZWFkIGFsbHNpdGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsLCJpcGFkZHIiOiI0MC43Mi43NC4xOTIifQ.UVk4MlFLYjFVOUpGT3VCOEJyUnRJUnBOYnhHeWJPSGJJMnhiM1duK2drWT0&ApiVersion=2.0
-中国之声视频直播间,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2016993703.m3u8
-中国之声视频直播间,http://125.39.177.129/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2016993703.m3u8
-翡翠台,p2p://ns1.hellotvvod.com:9906/e7ce3dcda6664014998a39f5db7048ca
-明珠台,p2p://ns1.hellotvvod.com:9906/eb253bb0954d45b9b917880092884248
-油管测试,https://jiekou.gq/youtube.php?id=_QbRXRnHMVY
-C4K测试,https://CCTV4K.siberiaapp.repl.co
+
 
 重要通知,#genre#
 我们立足于,http://epg.112114.xyz/douyu/8759139
