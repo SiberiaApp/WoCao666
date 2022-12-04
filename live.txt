@@ -78,6 +78,7 @@ CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd$全国CDN
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd$全国CDN
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k$全国CDN4K
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd$全国CDN
+CCTV16,http://124.220.17.172/shijiebei/sjb.php?id=5009tt$4K
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$华西
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$华西
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$华西
@@ -3781,6 +3782,7 @@ CCTV5+,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd$全国CDN
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv164k$全国CDN4K
+CCTV16,http://124.220.17.172/shijiebei/sjb.php?id=5009tt$4K
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$华西
 CCTV16,http://hls.yun.gehua.net.cn:8088/live/CCTV16HD_6000.m3u8$深圳阿里云
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8$高清
@@ -4194,6 +4196,10 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/zh/playlist.m3u8
+
+FashionTV4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 ABC News,http://diyp-diyp.tk/youtube.php?id=w_Ma8oQLmSM
 Sky News,http://diyp-diyp.tk/youtube.php?id=WLlKVD4Aqgw
