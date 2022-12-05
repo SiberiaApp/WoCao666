@@ -3995,7 +3995,7 @@ KSA Sports 2,https://edge.taghtia.com/sa/10.m3u8
 港台电视31,P2p://ns3.hellotvvod.com:9906/0ab28099f1e14eb3b6f6cd7d6053598a$祖传晴天
 HKC体育台,P2p://ns3.hellotvvod.com:9906/f029ee9884aa4f50ac74fb03e191731b$祖传晴天
 TVB经典台,P2p://ns3.hellotvvod.com:9906/287c6b04debd46128b696db5ffc8d6be$祖传晴天
-TVB星河(粤),P2p://ns3.hellotvvod.com:9906/d19067d3e427420b8044f23f64f80338$祖传晴天
+TVB星河,P2p://ns3.hellotvvod.com:9906/d19067d3e427420b8044f23f64f80338$祖传晴天
 TVB娱乐新闻台,P2p://ns3.hellotvvod.com:9906/cc9aa0780d4b4d949de136ed83185d33$祖传晴天
 J2,P2p://ns3.hellotvvod.com:9906/5f14903872a94a569f6734bf159baaa3$祖传晴天
 无线财经,P2p://ns3.hellotvvod.com:9906/7deb293c76dd498ba51dc01a5360fee9$祖传晴天
