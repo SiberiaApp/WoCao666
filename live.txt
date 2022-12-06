@@ -3146,8 +3146,8 @@ Thrill,P2p://ns3.hellotvvod.com:9906/2c323e61b2d449f9abe78e344c1e2653$祖传晴�
 中天娱乐,P2p://ns3.hellotvvod.com:9906/bdc4d793fb644337ac0125d4ffcb8e46
 中天综合,P2p://ns3.hellotvvod.com:9906/5f629bc30c744ba58a69290eb1b30f00
 
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8$广东有线标清
+明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8$广东有线标清
 
 翡翠台,http://zzy789.xyz/bili.php?id=2056603$B站不定期推流
 翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8$广东有线高清
