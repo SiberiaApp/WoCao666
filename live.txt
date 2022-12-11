@@ -3927,9 +3927,7 @@ BRTV纪实科教8K,https://dy.xn--i8s83y.tk/brtv.php?id=24$TVHub专用
 抖音4K50P①,http://159.75.85.63:5678/zb.php?id=douyin&sc=scone$第三方源
 抖音4K50P①,http://home.s9981.com:7890/zb.php?id=douyin$第三方源
 抖音4K50P②,http://159.75.85.63:5678/zb.php?id=douyin&sc=sctwo$第三方源
-直播(勿相信广告),http://mmitv.top/test/yyzb.php?id=top
-FIFA私人推流(勿信广告),http://pull.shangzhibo.tv/onelive/10223240-zWL1fxQ7a.flv
-FIFA私人推流(勿信广告),rtmp://pull.shangzhibo.tv/onelive/10223240-zWL1fxQ7a
+华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
@@ -4026,6 +4024,8 @@ Thrill,P2p://ns3.hellotvvod.com:9906/2c323e61b2d449f9abe78e344c1e2653$祖传晴�
 星空卫视,P2p://ns3.hellotvvod.com:9906/5d4a96e499744c8b91317cec0b232db9$祖传晴天
 澳门-MACAU,P2p://ns3.hellotvvod.com:9906/3d927ad544a040059b9ec8393ee30f7e$祖传晴天
 澳门莲花,P2p://ns3.hellotvvod.com:9906/797c3b1c6f674e618f51db3bbe18e736$祖传晴天
+
+中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 
 中天新闻,P2p://ns3.hellotvvod.com:9906/b26ad0652296454e89797e599f0d942e
 中天娱乐,P2p://ns3.hellotvvod.com:9906/bdc4d793fb644337ac0125d4ffcb8e46
