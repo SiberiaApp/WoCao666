@@ -270,11 +270,13 @@ CCTV16,http://39.135.6.71:6610/000000001000/5000000008000023254/index.m3u8?chann
 CCTV16,http://39.135.6.71:6610/000000001000/5000000008000023253/index.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3$高清
 CCTV16,http://27.36.62.163:9090/live/4010.m3u8$4K
 CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8$高清
+CCTV16,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000$蜀小果4K50HDR杜比5.1
 CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226236/index.m3u8?fmt=ts2hls$4K
 CCTV16,http://livepull.sxiptv.cn/live/CCTV16.m3u8?txSecret=eb9c76cfe79581d77642610a4445e33a&txTime=66666666$高清
 CCTV17,http://39.136.48.2:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV17,http://39.136.48.5:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
+CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000$蜀小果4K50HDR杜比5.1
 CCTV4K,http://159.75.85.63:8280/cctv4k.php$央视频切片4K
 CCTV4K,http://124.220.17.172/4k.php$央视频切片4K
 CCTV8K,http://vl15191373.imwork.net:8880/udp/239.93.42.61:5140$四川成都电信8K
