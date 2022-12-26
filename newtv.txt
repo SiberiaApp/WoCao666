@@ -277,7 +277,7 @@ CCTV17,http://39.136.48.2:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV17,http://39.136.48.5:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8$华东
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000$蜀小果4K50HDR杜比5.1
-CCTV4K,http://159.75.85.63:8280/cctv4k.php$央视频切片4KHDR
+CCTV4K,http://159.75.85.63:5679/cctv4k.php$央视频切片4KHDR
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php$央视频切片4KHDR
 CCTV8K,http://vl15191373.imwork.net:8880/udp/239.93.42.61:5140$四川成都电信8K
 CCTV8K,http://www.kitcc.cn:8888/udp/239.253.43.106:5146$广东东莞电信8K
