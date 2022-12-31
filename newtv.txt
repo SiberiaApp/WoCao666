@@ -3834,7 +3834,6 @@ RTHK33,http://shazui.8866.org:800/hls/91/index.m3u8
 求索科学中国,http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
 求索生活中国,http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
 求索动物中国,http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
-
 NHK综合,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK综合,http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8
 NHK综合,https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8
@@ -4104,8 +4103,9 @@ Mnet,https://apichvod21.seezntv.com/OTM/10150_H.m3u8?AdaptiveType=HLS&SessionID=
 广场舞测试1,https://vd4.bdstatic.com/mda-nf1y9p51adrm7mew/1080p/cae_h264/1654234039194681706/mda-nf1y9p51adrm7mew.mp4
 保持理智,https://aowu.sharepoint.cn/sites/cnoW/_layouts/15/download.aspx?UniqueId=0bc8dbef-06d1-4301-8883-dbce42727888&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYW93dS5zaGFyZXBvaW50LmNuQDE3MGE2Y2M3LWJkZTctNGJjNy04N2IwLWMxZjFkZDA0NDg4ZCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NjczNTU4NDAiLCJleHAiOiIxNjY3MzU5NDQwIiwiZW5kcG9pbnR1cmwiOiJmdDVnV0tMOWc5dGhNWEdYd3l0ZWZYWWFxbUtNWkdkWHpxdjNieDJ3cjZRPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTI1IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJOemd3WTJGbFpUa3RaV1JrT1MwME5EVmtMVGt5WWpZdFpEazJZMk0zWVRZME5XSXoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTUdabU5XVTVaRGN0Tm1GaE9TMDBOV1UzTFdFeU56SXROREUyTmpnME0yUmtabUV3IiwiYXBwX2Rpc3BsYXluYW1lIjoiemZpbGUiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwiYXBwaWQiOiI0YTcyZDkyNy0xOTA3LTQ4OGQtOWViMi0xYjQ2NWM1M2MxYzUiLCJ0aWQiOiIxNzBhNmNjNy1iZGU3LTRiYzctODdiMC1jMWYxZGQwNDQ4OGQiLCJ1cG4iOiJjMTIzQHBhb2x1LnNpdGUiLCJwdWlkIjoiMTAwMzMyMzBDNjVENEMzRSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDMzMjMwYzY1ZDRjM2VAbGl2ZS5jb20iLCJzY3AiOiJhbGxmaWxlcy53cml0ZSBhbGxzaXRlcy5yZWFkIGFsbHNpdGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJ0dCI6IjIiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjpudWxsLCJpcGFkZHIiOiI0MC43Mi43NC4xOTIifQ.UVk4MlFLYjFVOUpGT3VCOEJyUnRJUnBOYnhHeWJPSGJJMnhiM1duK2drWT0&ApiVersion=2.0
 好威武支持有希望,https://gcore.jsdelivr.net/gh/SiberiaApp/lue.github.io/nb.mp4
-卫星转播测试,http://main.boardcast.cn:81$内部测试01
-卫星转播测试,http://123.120.5.96:7800$内部测试02
+卫星转播红白,https://live.mlsub.net/play/hls/test/index.m3u8
+卫星转播测试01,http://main.boardcast.cn:81$内部测试
+卫星转播测试02,http://123.120.5.96:7800$内部测试
 无线财经,p2p://generationnexxxt.com:9906/4c1bd1ecc6834bec83caaf46cdbcdab8$晴天测试
 无线新闻,p2p://generationnexxxt.com:9906/644874eb307a4e01b1ad7623ae35de90$晴天测试
 无线新闻,p2p://generationnexxxt.com:9906/595ffb6a9d404be6b82b65ca0e612df6$晴天测试
