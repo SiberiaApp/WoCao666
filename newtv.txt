@@ -4108,6 +4108,7 @@ Mnet,https://apichvod21.seezntv.com/OTM/10150_H.m3u8?AdaptiveType=HLS&SessionID=
 卫星转播测试03,https://live.mlsub.net/play/hls/test/index.m3u8$内部测试
 无线新闻,p2p://generationnexxxt.com:9906/c72a0a3b723c425ba7c4726992cbc085$晴天测试
 无线新闻,p2p://generationnexxxt.com:9906/8bd37511cf274918a788663136285f34$晴天测试
+陶瓷频道停播回看测试,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/taocihd/8000000/mnf.m3u8
 
 重要通知,#genre#
 新年快乐,https://vd4.bdstatic.com/mda-nmwa1fjhjqp7yw5i/720p/h264/1672470355314142360/mda-nmwa1fjhjqp7yw5i.mp4
