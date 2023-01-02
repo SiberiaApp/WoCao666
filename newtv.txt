@@ -1,7 +1,7 @@
 央视频道,#genre#
 CCTV1,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8$全国CDN可回看
 CCTV2,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8$全国CDN可回看
-CCTV3,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8$全国CDN可回看
+CCTV3,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8$全国CDN可回看
 CCTV4,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8$全国CDN可回看
 CCTV5,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8$全国CDN可回看
 CCTV5+,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8$全国CDN可回看
