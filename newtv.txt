@@ -3678,51 +3678,11 @@ a泰山天街,http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8#http://gccncc
 凤凰资讯,http://111.59.189.40:85//tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰影视,http://111.59.189.40:85//tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
-凤凰电影,mitv://generationnexxxt.com:18806/3ec15219e30c4284af6c26e33921be71$晴天源
-凤凰香港,mitv://generationnexxxt.com:18806/140c134aa8944a6fb021c86f184a7ce5$晴天源
-凤凰中文,mitv://generationnexxxt.com:18806/ae7f34836bd14f9aa949e884e70bd901$晴天源
-凤凰资讯,mitv://generationnexxxt.com:18806/b4a94477b556404088328e7ebb5d7061$晴天源
-翡翠台,mitv://generationnexxxt.com:18806/81e48719bfd548e0905f7e3f49ea4e87$晴天源
-明珠台,mitv://generationnexxxt.com:18806/ca5fd1000c3343e08524894565482dd1$晴天源
-翡翠台,mitv://generationnexxxt.com:18806/63ae76080008d70fc3518710214123ba$晴天源
-翡翠台,mitv://generationnexxxt.com:18806/56438038dac64b7aaf83eb3e8f14f4f2$晴天源
-港台电视31,mitv://generationnexxxt.com:18806/67a0fe4459e04784b53f29a446e061bb$晴天源
-HKC体育台,mitv://generationnexxxt.com:18806/461ee4186df44a99a3ab3fee3211476b$晴天源
-TVB经典台,mitv://generationnexxxt.com:18806/a5ad5a71a1c24217874399944b878297$晴天源
-TVB星河,mitv://generationnexxxt.com:18806/8b06441380d4455e9a20f49ce633928a$晴天源
-TVB娱乐新闻台,mitv://generationnexxxt.com:18806/433c9c6631bd420eba4493408f34f9f3$晴天源
-功夫台,mitv://generationnexxxt.com:18806/5a979a6d70d64348b5ea30086d9d67bf$晴天源
-J2,mitv://generationnexxxt.com:18806/2b3d41193b4e4d18a8f6bdf0b60f89b6$晴天源
-无线财经,mitv://generationnexxxt.com:18806/8b8d407235cd4f5ca626529250cf22e2$晴天源
-无线新闻,mitv://generationnexxxt.com:18806/c72a0a3b723c425ba7c4726992cbc085$晴天源
-无线新闻,mitv://generationnexxxt.com:18806/8bd37511cf274918a788663136285f34$晴天源
-Hands Up,mitv://generationnexxxt.com:18806/a76febc86d9a4584a58886b4c287687b$晴天源
-HKC 18,mitv://generationnexxxt.com:18806/9ff0ac8fb52449e98fd6c694884b26e4$晴天源
-HKC Sports Plus 1,mitv://generationnexxxt.com:18806/6a8f5ea55edd44afa3baa702ede6b34d$晴天源
-HKC电影台,mitv://generationnexxxt.com:18806/43376752371048dfba9d6de7029fabf2$晴天源
-HKC体育台,mitv://generationnexxxt.com:18806/461ee4186df44a99a3ab3fee3211476b$晴天源
-有线新闻台,mitv://generationnexxxt.com:18806/4738c8dc857543689fbb4e082714660a$晴天源
-HKC综合娱乐台,mitv://generationnexxxt.com:18806/6266fd830bda46bf8ecc80141d70b4e4$晴天源
-有线财经资讯台,mitv://generationnexxxt.com:18806/c542a77d03354039a46fd782d4d9b4c9$晴天源
-香港603,mitv://generationnexxxt.com:18806/ad874ccb108b4c58aa5659f4a6d84abc$晴天源
-粤语片台,mitv://generationnexxxt.com:18806/516c61df97a743f9974faeb1ecba9e47$晴天源
-直播台,mitv://generationnexxxt.com:18806/026bf3fe3928432c8359514d968c66f8$晴天源
-now新闻台,mitv://generationnexxxt.com:18806/98bdab6342574a8b9cf1ae847f934ecb$晴天源
-now直播台,mitv://generationnexxxt.com:18806/026bf3fe3928432c8359514d968c66f8$晴天源
-港台电视31,mitv://generationnexxxt.com:18806/67a0fe4459e04784b53f29a446e061bb$晴天源
-Thrill,mitv://generationnexxxt.com:18806/6f8597d7488b4758bc6a100e319090cd$晴天源
-美亚电影台(粤语),mitv://generationnexxxt.com:18806/63aff98d000a53d4c93b529f75d663a6$晴天源
-亚洲剧台,mitv://generationnexxxt.com:18806/2fe038292af2427db67e14d053f3c9cf$晴天源
-阳光卫视,mitv://generationnexxxt.com:18806/6a336643d5844db9932c85b73202bd26$晴天源
-星空卫视,mitv://generationnexxxt.com:18806/5980877dd54349b7be2def5781d8908d$晴天源
-澳门-MACAU,mitv://generationnexxxt.com:18806/1499e4367b914238850b4cbc23d416c3$晴天源
-澳门莲花,mitv://generationnexxxt.com:18806/6ddacfaf37c747f4b20c6a6a385f33e3$晴天源
-
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8$抖音CDN
 翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8$抖音CDN
 明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8$抖音CDN
-J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8$抖音CDN
+J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8$抖音CDN
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8$广东有线标清
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8$广东有线标清
