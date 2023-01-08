@@ -3684,6 +3684,7 @@ a泰山天街,http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8#http://gccncc
 翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8$抖音CDN
 明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8$抖音CDN
 J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8$抖音CDN
+无线新闻,http://43.128.40.42:2212/tvb.php?id=1$官网代理
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
 翡翠台,http://moking2010.x10.mx/gd1.php$广东有线标清
 明珠台,http://moking2010.x10.mx/gd1.php?id=mzt$广东有线高清杜比5.1
@@ -3737,7 +3738,7 @@ J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8$抖音CDN
 翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 无线新闻,http://shazui.8866.org:800/hls/82/index.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-
+无线财经,http://43.128.40.42:2212/tvb.php?id=2$官网代理
 无线财经,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8$微赞国内源
 无线财经,http://120.84.96.26:808/hls/86/index.m3u8
 无线财经,http://120.84.96.31:808/hls/86/index.m3u8
