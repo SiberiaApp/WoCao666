@@ -3684,6 +3684,8 @@ a泰山天街,http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8#http://gccncc
 明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8$抖音CDN
 J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8$抖音CDN
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
+翡翠台,http://moking2010.x10.mx/gd1.php$广东有线标清
+明珠台,http://moking2010.x10.mx/gd1.php?id=mzt$广东有线高清杜比5.1
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8$广东有线标清
 明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8$广东有线标清
 
