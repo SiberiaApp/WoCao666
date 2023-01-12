@@ -3699,8 +3699,10 @@ a泰山天街,http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8#http://gccncc
 翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8$抖音CDN
 翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8$抖音CDN
 明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8$抖音CDN
+翡翠台,http://nas.jdshipin.com:8801/gdtest.php?id=1350_4500$广东有线高清
+明珠台,http://nas.jdshipin.com:8801/gdtest.php?id=1351_4500$广东有线高清
 J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8$抖音CDN
-J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8$抖音CDN
 无线新闻,http://43.128.40.42:2212/tvb.php?id=1$官网代理
 无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
 翡翠台,http://moking2010.x10.mx/gd1.php$广东有线标清
