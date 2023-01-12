@@ -1237,6 +1237,15 @@ CGTN阿拉伯语,http://117.148.179.163/TVOD/88888888/224/3221231579/index.m3u8
 
 
 广东,#genre#
+广东综艺,http://nas.jdshipin.com:8801/gdtest.php?id=GDZYHD4K_38000$4K
+广东导视,http://nas.jdshipin.com:8801/gdtest.php?id=GHDdaoshi_7500
+广东珠江,http://nas.jdshipin.com:8801/gdtest.php?id=gdzhujiangHD_7500
+广东体育,http://nas.jdshipin.com:8801/gdtest.php?id=1413
+广东影视,http://nas.jdshipin.com:8801/gdtest.php?id=gdyingshi_1500
+广东经济科教,http://nas.jdshipin.com:8801/gdtest.php?id=GDjingjikejiaoHD_7000
+广东卫视,http://nas.jdshipin.com:8801/gdtest.php?id=1401
+大湾区卫视,http://nas.jdshipin.com:8801/gdtest.php?id=gdnanfang_1500
+广东少儿,http://nas.jdshipin.com:8801/gdtest.php?id=gdshaoer_1500
 大湾区卫视,http://39.135.55.105:6610/PLTV/88888888/224/3221227214/index.m3u8?servicetype=1#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226218/index.m3u8#http://171.108.239.90:8181/tsfile/live/1003_1.m3u8
 广东珠江,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 广州综合,https://aplay.gztv.com/sec/zhonghe.m3u8
