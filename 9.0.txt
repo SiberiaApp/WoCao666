@@ -2981,6 +2981,9 @@ CGTN阿拉伯语,http://117.148.179.163/TVOD/88888888/224/3221231579/index.m3u8
 石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 
 西藏,#genre#
+西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8$高清
+西藏藏语,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8$高清
+西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8$高清
 安多藏语,http://stream.qhbtv.com/adws/playlist.m3u8
 西藏藏语,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
 西藏藏语,http://111.40.196.9/PLTV/88888888/224/3221225676/index.m3u8
