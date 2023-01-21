@@ -383,6 +383,12 @@ CCTV4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000$蜀小果代理4K50HDR杜比5.1
 CCTV4K,http://wabc.ml/sxg.php?id=ys4Kcq_2000$蜀小果代理4K50HDR杜比5.1
 
+CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8$肥羊4K50HDR杜比5.1满血
+CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8$肥羊4K50HDR杜比5.1残血
+CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8$肥羊4KHDR
+CCTV4K,http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8$肥羊4K
+CCTV4K,http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8$肥羊4K
+
 CCTV4K,http://117.184.239.13/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8$蜀小果静态4K50HDR杜比5.1
 CCTV4K,http://117.184.239.16/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8$蜀小果静态4K50HDR杜比5.1
 CCTV4K,http://117.184.239.23/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8$蜀小果静态4K50HDR杜比5.1
