@@ -389,6 +389,8 @@ CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8$肥羊4K
 CCTV4K,http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8$肥羊4K
 CCTV4K,http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8$肥羊4K
 
+CCTV4K,http://nas.jdshipin.com:8801/gdtest.php?id=4005$4K50HDR杜比5.1满血
+
 CCTV4K,http://117.184.239.13/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8$蜀小果静态4K50HDR杜比5.1
 CCTV4K,http://117.184.239.16/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8$蜀小果静态4K50HDR杜比5.1
 CCTV4K,http://117.184.239.23/livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8$蜀小果静态4K50HDR杜比5.1
