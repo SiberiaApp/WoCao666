@@ -20,6 +20,8 @@ CCTV16,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k
 CCTV17,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8$百视通8M
 CCTV4K,http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8$百视通4K
 
+CCTV4K,https://pull-flv-spe-l11.douyinliving.com/fantasy/stream-688813559861478070_uhd.flv?_neptune_token=MIGVBAwcVfU3eecmdOkG7t0Ec8AtxCU2TlR6q-ufCwWscTwhV-Wcb3ixFtVu2pn3HfMZcWQ6a-jneCnQJ_Ia-rkdjP76GK5oAxkEck16z_p72zWT9p4KdyKEU1v7salg7gFjtpYUdhC2f0Zj-i0Y55EGECzNtMTaVI4q9tPq4Y5Md7l9PNkEEPssxUL1OqQ0LGoc_BYiJ7c&expire=1674388582&sign=31420b0eb150ac1f17b9b4a54639364d&abr_pts=-1800$抖音2023春晚
+
 CCTV1,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8$百视通8M
 CCTV2,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8$百视通8M
 CCTV3,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8$百视通8M
