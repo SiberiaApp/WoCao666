@@ -2588,5 +2588,6 @@ CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
 关于软件,#genre#
+赞赏我们,https://mirror.ghproxy.com/https://raw.githubusercontent.com/SiberiaApp/WoCao666/main/about.mp4
 QQ交流群：,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/67686e110d7647f7a9b5e56ad729d55d/2000.m3u8
 156867772,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/bc4d99a188e742d4b6371c8d1a2e8b33/2000.m3u8
