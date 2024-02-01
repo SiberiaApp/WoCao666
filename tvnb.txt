@@ -18,6 +18,8 @@ CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
 CCTV1,http://202.168.187.208:2024/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://202.168.187.208:2024/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://202.168.187.208:2024/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
