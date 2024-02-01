@@ -2597,14 +2597,25 @@ CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8
 
 
 浙江,#genre#
-浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江民生休闲,http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江好易购,http://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江之声,http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
+浙江新闻广播,http://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
+浙江广播经济,http://ali-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
+浙江民生资讯,http://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+浙江音乐调频,http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
+浙江交通之声,http://ali-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
+浙江旅游之声,http://ali-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
+浙江城市之声,http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
 杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
 杭州明珠,http://www.372583307.top:4022/udp/233.50.201.174:5140
 杭州生活,http://www.372583307.top:4022/udp/233.50.201.175:5140
