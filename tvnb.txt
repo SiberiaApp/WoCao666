@@ -2714,6 +2714,15 @@ CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8
 凤凰中文,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
+测试,#genre#
+港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
+港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
+HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
+﻿翡翠台(备),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
+J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
+无线新闻台(备),mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
+无线新闻台,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
+
 关于软件,#genre#
 赞赏我们,https://mirror.ghproxy.com/https://raw.githubusercontent.com/SiberiaApp/WoCao666/main/about.mp4
 QQ交流群：,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/67686e110d7647f7a9b5e56ad729d55d/2000.m3u8
