@@ -2854,13 +2854,24 @@ CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8
 北仑电视台,http://play-sh.quklive.com/live/1626327731714170.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
-春节活动,#genre#
-翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-明珠台,http://202.168.187.208:2024/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://202.168.187.208:2024/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://202.168.187.208:2024/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-
+特色频道,#genre#
+电影轮播1,https://www.goodiptv.club/douyu/747764
+电影轮播2,https://www.goodiptv.club/douyu/85894
+新三国演义,https://www.goodiptv.club/douyu/2838296
+欧美电影,https://www.goodiptv.club/douyu/20415
+爱情公寓,https://www.goodiptv.club/douyu/6566658
+庆余年,https://www.goodiptv.club/douyu/5062195
+家有儿女,https://www.goodiptv.club/douyu/11543347
+粤语电影,https://www.goodiptv.club/douyu/6566671
+粤语经典,https://www.goodiptv.club/douyu/1226741
+周星驰,https://www.goodiptv.club/douyu/122402
+林正英电影,https://www.goodiptv.club/douyu/218859
+小片片说大片,https://www.goodiptv.club/douyu/4258555
+宋小宝小品,https://www.goodiptv.club/douyu/9817729
+开心麻花小品,https://www.goodiptv.club/douyu/10153463
+赵本山小品,https://www.goodiptv.club/douyu/9817716
+贾玲经典小品,https://www.goodiptv.club/douyu/10419541
+经典小品,https://www.goodiptv.club/douyu/9067836
 
 关于软件,#genre#
 赞赏我们,https://mirror.ghproxy.com/https://raw.githubusercontent.com/SiberiaApp/WoCao666/main/about.mp4
