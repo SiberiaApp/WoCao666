@@ -51,7 +51,7 @@ CCTV15,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265014/1.
 CCTV16,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 CCTV5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
-CCTV4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+
 
 CCTV1,http://202.168.187.208:2024/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://202.168.187.208:2024/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -163,6 +163,7 @@ CCTV4K,http://www.22803189.xyz:8001/rtp/239.77.0.174:5146$广东
 CCTV4K,http://hiliu.myds.me:8088/udp/239.69.1.111:10304$湖北
 CCTV4K,http://wh.jadey1028.top:8000/udp/239.69.1.111:10304$湖北
 CCTV4K,http://www.furymax.top:85/udp/239.69.1.111:10304$湖北
+CCTV4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3$备用
 
 CCTV1,http://60.217.73.227:83/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://60.217.73.227:83/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
