@@ -125,6 +125,7 @@ CCTV16,http://175.18.189.238:9902/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&
 CCTV17,http://175.18.189.238:9902/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://175.18.189.238:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV4K,http://lu1.cc/itv/php/cctv4k.php$央视频
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd$央视频
 CCTV4K,http://enjie.vip:4022/rtp/239.3.1.244:2000$北京
 CCTV4K,http://enjie.vip:4022/rtp/239.3.1.245:2000$北京
