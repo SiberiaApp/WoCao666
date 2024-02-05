@@ -743,6 +743,12 @@ CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8
 淮河能源综合,http://play.hhnynews.com/hhny/zhpd.m3u8?auth_key=1659380497-0-0-b07e3e3cd99f9355b6aa1e79fbd305f2
 
 北京,#genre#
+北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+纪实科教,https://tv.cry33.com/bj8k.php?id=bjjskj
+北京财经,https://tv.cry33.com/bj8k.php?id=bjcj
+北京新闻,https://tv.cry33.com/bj8k.php?id=bjxw
+北京生活,https://tv.cry33.com/bj8k.php?id=bjsh
+纪实8K,https://tv.cry33.com/bj8k.php?id=brtv8k
 北京卫视,http://enjie.vip:4022/rtp/239.3.1.241:8000
 北京新闻,http://enjie.vip:4022/rtp/239.3.1.159:8000
 北京影视,http://enjie.vip:4022/rtp/239.3.1.158:8000
