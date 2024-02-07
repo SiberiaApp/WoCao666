@@ -125,6 +125,8 @@ CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 
+CCTV4K,https://live3.rxip.sc96655.com/live/ys4Kcq.m3u8$果子
+
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
