@@ -252,7 +252,8 @@ CCTV17,http://175.18.189.238:9902/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&
 CCTV5+,http://175.18.189.238:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV4K,https://tv.cry33.com/ys4k.php?id=4k$央视频(独家)
-CCTV4K,http://1.14.131.61:5828/cctv4k.php
+CCTV4K,http://1.14.131.61:5828/cctv4k.php$央视频
+CCTV4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3$陕西
 CCTV4K,http://enjie.vip:4022/rtp/239.3.1.244:2000$北京
 CCTV4K,http://enjie.vip:4022/rtp/239.3.1.245:2000$北京
 CCTV4K,http://home4.kmo.ink:8888/rtp/239.3.1.244:2000$北京
@@ -272,7 +273,7 @@ CCTV4K,http://www.22803189.xyz:8001/rtp/239.77.0.174:5146$广东
 CCTV4K,http://hiliu.myds.me:8088/udp/239.69.1.111:10304$湖北
 CCTV4K,http://wh.jadey1028.top:8000/udp/239.69.1.111:10304$湖北
 CCTV4K,http://www.furymax.top:85/udp/239.69.1.111:10304$湖北
-CCTV4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3$备用
+
 
 CCTV1,http://60.217.73.227:83/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://60.217.73.227:83/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
