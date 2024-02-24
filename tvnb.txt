@@ -18,7 +18,7 @@ CCTV15,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/
 CCTV16,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV17,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 CCTV16,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8$4K
-CCTV-4K,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV4K,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
 
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
