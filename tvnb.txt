@@ -3281,6 +3281,7 @@ CCTV16,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid
 CCTV16,https://tv.cry33.com/51.php?id=2022575403.m3u8
 CCTV16,https://tv.cry33.com/ys4k.php?id=16-4k$4K(独家)
 五星体育,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,https://s2.pub/cctv-13
 体育直播01,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=Slive01
