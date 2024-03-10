@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3$标记
+CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
 CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
 CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=3
 CCTV4,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
@@ -3229,8 +3229,8 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 北仑电视台,http://play-sh.quklive.com/live/1626327731714170.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
-影视频道,#genre#
--院线电影抢先-,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/67686e110d7647f7a9b5e56ad729d55d/2000.m3u8
+娱乐专区,#genre#
+--院线电影抢先--,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/67686e110d7647f7a9b5e56ad729d55d/2000.m3u8
 热辣滚烫,https://bf.hhuus.com/play/DdwzxWwb/index.m3u8
 飞驰人生2,https://bf.hhuus.com/play/BeXvw9ob/index.m3u8
 第二十条,https://bf.hhuus.com/play/PdyB5Nne/index.m3u8
