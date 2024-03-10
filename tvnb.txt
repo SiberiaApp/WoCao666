@@ -18,6 +18,8 @@ CCTV15,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=50
 CCTV16,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
 CCTV16,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$4K
 
+CCTV4K,https://tv.cry33.com/ys4k.php?id=4k$央视频(独家)
+
 CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV2,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
 CCTV3,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3
@@ -281,31 +283,6 @@ CCTV5+,http://1.30.18.218:20080/hls/20/index.m3u8
 CCTV4,http://vvlive.eztv.vip/dongfang/dongfang.m3u8?auth_key=1669604282-0-0-af51760e4483b6e4e43dd66dc140d0de
 CCTV5,http://vvlive.eztv.vip/cctv5/cctv5.m3u8?auth_key=1669603935-0-0-d0b92c55e8f1668dfa3d7662d7a3cd63
 CCTV9,http://vvlive.eztv.vip/cctv14/cctv14.m3u8?auth_key=1669604050-0-0-4dea6b5c3f679bbecd6c6fb51d675cb1
-
-CCTV4K,http://tvhub.hppro1.hpnu.cn/ys4k.php?id=4k$央视频(独家)(限时)
-CCTV4K,https://tv.cry33.com/ys4k.php?id=4k$央视频(独家)
-CCTV4K,http://1.14.131.61:5828/cctv4k.php$央视频
-CCTV4K,http://192.168.3.111:30000/ys4k.php?id=4k$内网勿用
-CCTV4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3$陕西
-CCTV4K,http://enjie.vip:4022/rtp/239.3.1.244:2000$北京
-CCTV4K,http://enjie.vip:4022/rtp/239.3.1.245:2000$北京
-CCTV4K,http://home4.kmo.ink:8888/rtp/239.3.1.244:2000$北京
-CCTV4K,http://home4.kmo.ink:8888/rtp/239.3.1.245:2000$北京
-CCTV4K,http://webmail.axxe.top:4022/rtp/239.3.1.244:2000$北京
-CCTV4K,http://webmail.axxe.top:4022/rtp/239.3.1.245:2000$北京
-CCTV4K,http://www.zzmd.fun:8888/rtp/239.3.1.244:2000$北京
-CCTV4K,http://www.zzmd.fun:8888/rtp/239.3.1.245:2000$北京
-CCTV4K,http://szlyric.fun:4022/rtp/239.77.0.194:5146$广东
-CCTV4K,http://szlyric.fun:4022/rtp/239.77.0.174:5146$广东
-CCTV4K,http://ruoshui.space:554/rtp/239.77.0.194:5146$广东
-CCTV4K,http://ruoshui.space:554/rtp/239.77.0.174:5146$广东
-CCTV4K,http://guddx01.shualian.work:4022/rtp/239.77.0.194:5146$广东
-CCTV4K,http://guddx01.shualian.work:4022/rtp/239.77.0.174:5146$广东
-CCTV4K,http://www.22803189.xyz:8001/rtp/239.77.0.194:5146$广东
-CCTV4K,http://www.22803189.xyz:8001/rtp/239.77.0.174:5146$广东
-CCTV4K,http://hiliu.myds.me:8088/udp/239.69.1.111:10304$湖北
-CCTV4K,http://wh.jadey1028.top:8000/udp/239.69.1.111:10304$湖北
-CCTV4K,http://www.furymax.top:85/udp/239.69.1.111:10304$湖北
 
 
 CCTV1,http://60.217.73.227:83/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1063,7 +1040,7 @@ CCTV17,http://39.136.48.8:8089/PLTV/88888888/224/3221226093/index.m3u8
 北京财经,https://tv.cry33.com/bj8k.php?id=bjcj
 北京新闻,https://tv.cry33.com/bj8k.php?id=bjxw
 北京生活,https://tv.cry33.com/bj8k.php?id=bjsh
-纪实8K,https://tv.cry33.com/bj8k.php?id=brtv8k
+北京纪实8K,https://tv.cry33.com/bj8k.php?id=brtv8k
 北京卫视,http://enjie.vip:4022/rtp/239.3.1.241:8000
 北京新闻,http://enjie.vip:4022/rtp/239.3.1.159:8000
 北京影视,http://enjie.vip:4022/rtp/239.3.1.158:8000
@@ -3282,6 +3259,29 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 经典小品,https://www.goodiptv.club/douyu/9067836
 
 体育专区,#genre#
+CCTV5,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
+CCTV5,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
+CCTV5,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
+CCTV5,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
+CCTV5,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226043/1/index.m3u8?fmt=ts2hls
+CCTV5,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226259/1/index.m3u8?fmt=ts2hls
+CCTV5,https://tv.cry33.com/51.php?id=2022576403.m3u8
+CCTV5,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=064
+CCTV5+,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
+CCTV5+,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
+CCTV5+,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226285/1/index.m3u8?fmt=ts2hls
+CCTV5+,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls
+CCTV5+,http://39.136.18.184/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226128/1/index.m3u8?fmt=ts2hls
+CCTV5+,https://tv.cry33.com/51.php?id=2022576303.m3u8
+CCTV5+,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=246
+CCTV16,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=3
+CCTV16,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$4K
+CCTV16,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3
+CCTV16,https://tv.cry33.com/51.php?id=2022575403.m3u8
+CCTV16,https://tv.cry33.com/ys4k.php?id=16-4k$4K(独家)
+五星体育,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,https://s2.pub/cctv-13
 体育直播01,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=Slive01
 体育直播02,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=Slive02
 体育直播03,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=Slive03
@@ -3292,9 +3292,6 @@ GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 体育直播08,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=Slive08
 体育直播09,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=Slive09
 体育直播10,http://129.226.149.79:4785/html/freetest.php?access_token=test1208faku&id=Slive10
-五星体育,http://gslbservzqhsw.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来体育,https://s2.pub/cctv-13
 咪咕体育4K,http://gslbservhyqjsp.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕体育01,http://gslbservhyqjsp.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 咪咕体育02,http://gslbservhyqjsp.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
